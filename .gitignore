@@ -1,0 +1,75 @@
+# ROS2 / Colcon
+build/
+install/
+log/
+*.pyc
+__pycache__/
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+.DS_Store
+
+# Gazebo
+*.log
+*.cfg
+*.sdf
+*.urdf
+
+# ROS bags
+*.bag
+*.db3
+
+# Videos and large files
+*.mp4
+*.avi
+*.mov
+*.mkv
+*.flv
+*.wmv
+
+# Images (keep docs/images)
+*.jpg
+*.jpeg
+*.png
+!docs/images/*.png
+!docs/images/*.jpg
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.backup
+
+# Python cache
+.pytest_cache/
+.coverage
+htmlcov/
+.tox/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Embedded systems (if applicable)
+*.bin
+*.hex
+*.elf
+
+# Documentation builds
+docs/_build/
+docs/.doctrees/
+
+# Reports
+*.pdf
+!docs/*.pdf
