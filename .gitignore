@@ -43,6 +43,9 @@ build/
 *.jpg
 *.jpeg
 *.png
+*.psd
+*.stl
+*.dae
 !docs/images/*.png
 !docs/images/*.jpg
 
