@@ -1,4 +1,4 @@
-# ROS2 Autonomous Warehouse Robot
+# Smart Warehouse Bot
 
 Autonomous mobile robot system for warehouse inspection missions using ROS2 Humble, Nav2 navigation stack, and computer vision-based station verification with ArUco markers.
 
@@ -102,8 +102,8 @@ Autonomous warehouse robots require robust navigation in structured environments
 ### Clone Repository
 
 ```bash
-git clone https://github.com/Rabeb2003/ros2-autonomous-warehouse-robot.git
-cd ros2-autonomous-warehouse-robot
+git clone https://github.com/Rabeb2003/smart-warehouse-bot.git
+cd smart-warehouse-bot
 ```
 
 ### Build Workspace
@@ -192,11 +192,11 @@ MIT License - see [LICENSE](LICENSE) file for details
 If you use this project for research, please cite:
 
 ```bibtex
-@software{ros2_warehouse_robot,
+@software{smart_warehouse_bot,
   author = {Bouzaida, Rabeb},
-  title = {ROS2 Autonomous Warehouse Robot},
+  title = {Smart Warehouse Bot},
   year = {2024},
-  url = {https://github.com/Rabeb2003/ros2-autonomous-warehouse-robot}
+  url = {https://github.com/Rabeb2003/smart-warehouse-bot}
 }
 ```
 
