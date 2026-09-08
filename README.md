@@ -1,5 +1,7 @@
 # Smart Warehouse Bot
 
+![Warehouse Simulation](src/aws-robomaker-small-warehouse-world/docs/images/small_warehouse_gazebo.png)
+
 Autonomous mobile robot system for warehouse inspection missions using ROS2 Humble, Nav2 navigation stack, and computer vision-based station verification with ArUco markers.
 
 ## Research Context
