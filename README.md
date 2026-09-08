@@ -4,6 +4,8 @@
 
 ![Warehouse Bot Simulation](warehouse-bot_simulation.png)
 
+![Gazebo + RViz2](gazebo+rviz2.png)
+
 Autonomous mobile robot system for warehouse inspection missions using ROS2 Humble, Nav2 navigation stack, and computer vision-based station verification with ArUco markers.
 
 ## Research Context
