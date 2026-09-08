@@ -2,7 +2,7 @@
 
 ![Warehouse Simulation](warehouse_bot.png)
 
-![Warehouse Bot Simulation](warehouse_bot_simulation.png)
+![Warehouse Bot Simulation](warehouse-bot_simulation.png)
 
 Autonomous mobile robot system for warehouse inspection missions using ROS2 Humble, Nav2 navigation stack, and computer vision-based station verification with ArUco markers.
 
